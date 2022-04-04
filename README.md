@@ -5,7 +5,7 @@
    - Receive daily updated charts for different stocks listed in both NSE and BSE 
 
 ## How to use it ??
--Enter your bot's API id in the space mention to  get response in your device. 
+-Enter your Bot's API ID in the space mention to  get response in your device. 
 -Open the bot and run as mention in screenshot . 
 
 ## Screenshots
