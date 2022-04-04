@@ -2,8 +2,7 @@
  
 ## Features
    - It will give bot interface for stocks update.
-   - Receive daily updated charts for different stocks listed in both NSE and BSE
-   - Give update of daily ,monthly and yearly stocks of companies. 
+   - Receive daily updated charts for different stocks listed in both NSE and BSE 
 
 ## How to use it ??
 -Enter your bot's API id in the space mention to  get response in your device. 
