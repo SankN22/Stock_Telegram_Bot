@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 from telegram.ext.updater import Updater
 from telegram.update import Update
 from telegram.ext.callbackcontext import CallbackContext
-from telegram.ext.commandhandler import CommandHandler
+
 updater = Updater("5293034765:AAFOIJ0wRNEfe1fLRLP-XmpvUWGEZF8YvxE",
 				use_context=True)
 
