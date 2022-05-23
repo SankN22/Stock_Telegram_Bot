@@ -7,7 +7,7 @@ from telegram.ext.updater import Updater
 from telegram.update import Update
 from telegram.ext.callbackcontext import CallbackContext
 
-updater = Updater("5293034765:AAFOIJ0wRNEfe1fLRLP-XmpvUWGEZF8YvxE",
+updater = Updater("BOT'S API ID",
 				use_context=True)
 
 def send_image(botToken, imageFile, chat_id):
@@ -56,7 +56,7 @@ def shareyear(str1):
     plt.ylabel('Price (Rs)')
     plt.xlabel('Date')
     plt.savefig('image.png')
-    send_image("5293034765:AAFOIJ0wRNEfe1fLRLP-XmpvUWGEZF8YvxE", 'image.png', '1099048606')
+    send_image("BOT'S API ID", 'image.png', 'chat_id')
     plt.clf()
    
 def sharemonth(str1):
@@ -66,7 +66,7 @@ def sharemonth(str1):
     plt.xlabel('Date')
     plt.ylabel('Price (Rs)')
     plt.savefig('image.png')
-    send_image("5293034765:AAFOIJ0wRNEfe1fLRLP-XmpvUWGEZF8YvxE", 'image.png', '1099048606')
+    send_image("BOT'S API ID", 'image.png', 'chat id')
     plt.clf()
     
 def shareday(str1):
@@ -76,7 +76,7 @@ def shareday(str1):
     plt.ylabel('Price (Rs)')
     plt.xlabel('Date')
     plt.savefig('image.png')
-    send_image("5293034765:AAFOIJ0wRNEfe1fLRLP-XmpvUWGEZF8YvxE", 'image.png', '1099048606')
+    send_image("BOT'S API ID", 'image.png', 'chati id')
     plt.clf()
   
 def nsetcs(update: Update, context: CallbackContext):
